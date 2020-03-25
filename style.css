@@ -15,6 +15,12 @@ p {
     padding:5px 50px 5px 50px;
     color: black;    
 }
+.discover:hover {
+    background-color: #fff;
+    padding:5px 50px 5px 50px;
+    color: black;    
+    cursor: pointer;
+}
 .space{
     display: flex;
     align-items: center;
